@@ -197,8 +197,8 @@ Last update: December, 2022
 1. **Individuals’ willingness to provide geospatial global positioning system (GPS) data from their smartphone during the COVID-19 pandemic:** [Link](https://www.nature.com/articles/s41599-022-01338-7)
 
 ## Case Surveillance Data - Differentiating Strains (病例监测数据 - 区分毒株)
-1. **非洲数据：** [Link](https://www.nature.com/articles/s41564-022-01276-9)
-2. **英国数据：** [Link](https://covid19.sanger.ac.uk/lineages/raw?)
+1. **Africa dataset 非洲数据：** [Link](https://www.nature.com/articles/s41564-022-01276-9)
+2. **UK dataset 英国数据：** [Link](https://covid19.sanger.ac.uk/lineages/raw?)
 
 ## Clinical Data (临床数据)
 1. **Statistical biases due to anonymization evaluated in an open clinical dataset from COVID-19 patients:** [Link](https://www.nature.com/articles/s41597-022-01669-9)
