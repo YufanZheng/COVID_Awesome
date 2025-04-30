@@ -1,5 +1,5 @@
 # COVID_Awesome
-** COVID-19 - Epidemic Literature and Data Collection **
+**COVID-19 - Epidemic Literature and Data Collection**
 
 Last update: December, 2022
 
